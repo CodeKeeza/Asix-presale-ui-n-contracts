@@ -118,4 +118,9 @@ module.exports = {
   //   }
   // }
   // }
+  plugins: ['truffle-plugin-verify'],
+
+  api_keys: {
+    bscscan: process.env.BSCSCAN_API_KEY,
+  },
 }
