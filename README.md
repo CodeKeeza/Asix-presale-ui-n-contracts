@@ -38,5 +38,5 @@ client/src/App.js
                 }
               />
 
-change '<NotFound />' to the same as the option to it's left to display AppOwner areas during local usage
+change <code><NotFound /><code/> to the same as the option to it's left to display AppOwner areas during local usage
 you will not be able to interact with the contracts like the admin would so I advise just redeploying!
